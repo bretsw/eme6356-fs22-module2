@@ -65,7 +65,7 @@ include_graphics("img/2-data-story-tweet-2.png")
 
 class: inverse, center, middle
 
-# `r fa("thumbs-up", fill = "#fff")` <br> <br> Module 1 Discussion  <br> Themes and Kudos
+# `r fa("thumbs-up", fill = "#fff")` <br> <br> Module 1 Discussion <br> Themes and Kudos
 
 ---
 
@@ -163,7 +163,7 @@ include_graphics("img/caution.jpg")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-question", fill = "#fff")` <br> <br> Module 1 Discussion  <br> Final Thoughts?
+# `r fa("questionfas fa-", fill = "#fff")` <br> <br> Module 1 Discussion  <br> Final Thoughts?
 
 ---
 
